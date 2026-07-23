@@ -8,9 +8,7 @@ __pycache__/
 venv/
 
 # Data (raw pulls can be large / regenerable - don't commit them)
-data/raw/*.csv
 data/processed/*.csv
-!data/raw/.gitkeep
 !data/processed/.gitkeep
 
 # DuckDB
