@@ -1,0 +1,7 @@
+mandi_price_intelligence:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "../mandi.duckdb"
+      threads: 4

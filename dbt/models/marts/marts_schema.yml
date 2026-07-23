@@ -1,0 +1,37 @@
+version: 2
+
+models:
+  - name: fct_mandi_prices
+    description: >
+      Deduplicated, analysis-ready mandi price facts. One row per
+      state/district/market/commodity/variety/grade/arrival_date.
+    columns:
+      - name: state
+        tests:
+          - not_null
+      - name: market
+        tests:
+          - not_null
+      - name: commodity
+        tests:
+          - not_null
+      - name: arrival_date
+        tests:
+          - not_null
+      - name: modal_price
+        description: The price used for all downstream analysis (anomaly detection, forecasting).
+        tests:
+          - not_null
+
+  - name: mart_price_anomalies
+    description: >
+      Flags markets whose price for a commodity looks unusual (via IQR method)
+      compared to other markets selling the same commodity, in the same state,
+      on the same day. Only includes groups with 3+ reporting markets.
+    columns:
+      - name: is_price_anomaly
+        tests:
+          - not_null
+      - name: n_markets_reporting
+        tests:
+          - not_null

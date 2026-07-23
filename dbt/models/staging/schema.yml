@@ -1,0 +1,45 @@
+version: 2
+
+models:
+  - name: stg_mandi_prices
+    description: >
+      One row per (state, district, market, commodity, variety, grade, arrival_date)
+      price report, cleaned and typed from the raw daily CSV pulls.
+    columns:
+      - name: state
+        description: Indian state or union territory name, as reported by Agmarknet.
+        tests:
+          - not_null
+
+      - name: district
+        tests:
+          - not_null
+
+      - name: market
+        description: Specific mandi (market) name within the district.
+        tests:
+          - not_null
+
+      - name: commodity
+        tests:
+          - not_null
+
+      - name: arrival_date
+        description: Date the price was reported, parsed from DD/MM/YYYY.
+        tests:
+          - not_null
+
+      - name: min_price
+        description: Minimum reported price for the day, in Rs per quintal.
+        tests:
+          - not_null
+
+      - name: max_price
+        tests:
+          - not_null
+
+      - name: modal_price
+        description: The most commonly traded price for the day - the key metric
+          for downstream anomaly detection and forecasting.
+        tests:
+          - not_null
