@@ -1,0 +1,260 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Andhra Pradesh,Kakinada,Peddapuram APMC,Paddy(Common),1001,FAQ,20/08/2026,2369,2390,2369
+Andhra Pradesh,Eluru,Polavaram APMC,Paddy(Common),1001,Local,20/08/2026,2445,2445,2445
+Andhra Pradesh,Kakinada,Samalkot APMC,Paddy(Common),Paddy,FAQ,20/08/2026,2369,2380,2369
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,20/08/2026,8500,8500,8500
+Andhra Pradesh,Sri Sathya Sai,Penukonda APMC,Groundnut,Local,FAQ,20/08/2026,7400,7600,7500
+Andhra Pradesh,Ananthapuramu,Kalyandurg APMC,Groundnut,Local,Grade Range-1,20/08/2026,8000,8500,8300
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Red gram/Arhar/Tur(whole),Local,FAQ,20/08/2026,8000,8000,8000
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Paddy(Common),Paddy,FAQ,20/08/2026,3000,3000,3000
+Andhra Pradesh,Srikakulam,Amadalavalasa APMC,Paddy(Common),Paddy,FAQ,20/08/2026,2369,2369,2369
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,20/08/2026,2369,2390,2375
+Andhra Pradesh,Srikakulam,Kothabommali APMC,Paddy(Common),Paddy,Local,20/08/2026,2800,2800,2800
+Andhra Pradesh,NTR,Mylavaram APMC,Paddy(Common),1001,FAQ,20/08/2026,2369,2369,2369
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,20/08/2026,2361,2369,2365
+Andhra Pradesh,NTR,Mylavaram APMC,Maize,Hybrid,Local,20/08/2026,2400,2400,2400
+Andhra Pradesh,Markapuram,Markapur APMC,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,20/08/2026,5600,5600,5600
+Andhra Pradesh,Anakapally,Payakaraopeta APMC,Green Gram(Moong)(Whole),Local,Local,20/08/2026,8748,8768,8758
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Groundnut,Local,FAQ,20/08/2026,6500,7500,7000
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Groundnut,Local,Grade Range-1,20/08/2026,3616,5700,4680
+Andhra Pradesh,Ananthapuramu,Singanamala APMC,Groundnut,Local,Grade Range-1,20/08/2026,6600,7800,7200
+Andhra Pradesh,Alluri Sitharama Raju,Araku Valley APMC,Millets,Millets,Grade Range-1,20/08/2026,3500,4000,3800
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),B P T,FAQ,20/08/2026,2369,2389,2379
+Andhra Pradesh,Kakinada,Jaggampet APMC,Paddy(Common),Common,FAQ,20/08/2026,2369,2380,2369
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Rice,B P T,FAQ,20/08/2026,6000,6000,6000
+Andhra Pradesh,Nandyal,Allagadda APMC,Maize,Local,FAQ,20/08/2026,2000,2250,2150
+Andhra Pradesh,Eluru,Polavaram APMC,Maize,Local,Local,20/08/2026,2410,2410,2410
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,20/08/2026,6000,6000,6000
+Andhra Pradesh,Prakasam,Maddipadu APMC,Bengal Gram(Gram)(Whole),Gulabi,FAQ,20/08/2026,6000,6000,6000
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Green Gram(Moong)(Whole),Local (Whole),FAQ,20/08/2026,7000,7000,7000
+Andhra Pradesh,Tirupathi,Srikalahasti APMC,Groundnut,Local,Local,20/08/2026,6500,6800,6650
+Andhra Pradesh,Prakasam,Darsi APMC,Cotton,Desi,Local,20/08/2026,8100,8200,8200
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Cotton,Bramha,Grade Range-1,20/08/2026,4000,9929,9570
+Andhra Pradesh,Anakapally,Payakaraopeta APMC,Banana,Karpura,Local,20/08/2026,1600,1700,1650
+Andhra Pradesh,Prakasam,Darsi APMC,Paddy(Common),B P T,Local,20/08/2026,2500,2600,2600
+Andhra Pradesh,YSR Kadapa,Badvel APMC,Paddy(Common),Masuri,Local,20/08/2026,2380,2460,2420
+Andhra Pradesh,Nandyal,Atmakur (Nandyal District) APMC,Paddy(Common),Sona,FAQ,20/08/2026,2480,2480,2480
+Andhra Pradesh,Bapatla,Chirala APMC,Paddy(Common),B P T,Local,20/08/2026,2400,2500,2450
+Andhra Pradesh,Vijayanagaram,Kothavalasa APMC,Paddy(Common),1001,Local,20/08/2026,2369,2369,2369
+Andhra Pradesh,Prakasam,Maddipadu APMC,Paddy(Common),B P T,FAQ,20/08/2026,2800,2800,2800
+Andhra Pradesh,Kakinada,Prattipadu APMC,Paddy(Common),1001,FAQ,20/08/2026,2369,2380,2379
+Andhra Pradesh,Polavaram,Rampachodvaram APMC,Paddy(Common),1001,Grade Range-2,20/08/2026,2369,2389,2379
+Andhra Pradesh,Sri Sathya Sai,Penukonda APMC,Maize,Hybrid/Local,FAQ,20/08/2026,2400,2600,2500
+Andhra Pradesh,Eluru,Nuzvid APMC,Maize,Local,FAQ,20/08/2026,2500,2500,2500
+Andhra Pradesh,NTR,Mylavaram APMC,Cotton,Bunny,Local,20/08/2026,7100,7100,7100
+Andhra Pradesh,Anakapally,Payakaraopeta APMC,Mango,Other,Local,20/08/2026,2400,2600,2500
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Local,20/08/2026,15000,22000,19500
+Andhra Pradesh,Prakasam,Maddipadu APMC,Bajra(Pearl Millet/Cumbu),Bold,FAQ,20/08/2026,2550,2550,2550
+Andhra Pradesh,Chittor,S.R.Puram APMC,Gur(Jaggery),NO 3,Local,20/08/2026,1700,2050,1900
+Andhra Pradesh,Ananthapuramu,Rapthadu APMC,Ground Nut Seed,Ground Nut Seed,Grade Range-1,20/08/2026,9800,11800,10800
+Andhra Pradesh,Visakhapatnam,Bhimunipatnam APMC,Paddy(Common),Samba Masuri,Local,20/08/2026,2369,2369,2369
+Andhra Pradesh,Prakasam,Santhamaguluru APMC,Paddy(Common),B P T,FAQ,20/08/2026,2500,2570,2550
+Andhra Pradesh,Tirupathi,Srikalahasti APMC,Paddy(Common),Paddy Medium,Local,20/08/2026,2300,2600,2450
+Andhra Pradesh,Anakapally,Payakaraopeta APMC,Paddy(Common),1001,Local,20/08/2026,2349,2369,2359
+Andhra Pradesh,Vijayanagaram,Chipurupalli APMC,Maize,Local,FAQ,20/08/2026,4800,4800,4800
+Andhra Pradesh,Prakasam,Santhamaguluru APMC,Maize,Hybrid,FAQ,20/08/2026,2400,2480,2450
+Andhra Pradesh,Nandyal,Koilkunta APMC,Jowar(Sorghum),Jowar ( White),FAQ,20/08/2026,3000,3400,3200
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Cotton,Bunny,FAQ,20/08/2026,8000,8000,8000
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Grade Range-1,20/08/2026,17000,27000,22500
+Andhra Pradesh,Visakhapatnam,Bhimunipatnam APMC,Ragi(Finger Millet),Local,Local,20/08/2026,5000,5000,5000
+Andhra Pradesh,Anakapally,Payakaraopeta APMC,Cashewnuts,Local(Raw),Local,20/08/2026,10000,11000,10500
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Red gram/Arhar/Tur(whole),Local,Grade Range-1,20/08/2026,3980,5900,4800
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Brinjal,Arkasheela Mattigulla,Grade C,20/08/2026,1700,1700,1700
+Bihar,Madhubani,Jainagar APMC,Tomato,Deshi,Grade A,20/08/2026,3800,5000,4280
+Bihar,Madhubani,Jainagar APMC,Banana - Green,Banana - Green,Grade A,20/08/2026,3500,4000,3700
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Onion,Medium,Grade C,20/08/2026,2750,2800,2768.52
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Red Nanital,FAQ,20/08/2026,1100,1100,1100
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Jyoti,Grade A,20/08/2026,1000,1050,1019.23
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Jyoti,FAQ,20/08/2026,1050,1050,1050
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Brinjal,Arkasheela Mattigulla,Grade A,20/08/2026,2100,2100,2100
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Pumpkin,Other,FAQ,20/08/2026,2000,2000,2000
+Bihar,Madhubani,Jainagar APMC,Cabbage,Cabbage,Grade A,20/08/2026,2150,3000,2500
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Onion,Medium,Small,20/08/2026,2600,2600,2600
+Bihar,Madhubani,Jainagar APMC,Cauliflower,Cauliflower,Grade A,20/08/2026,6800,8000,7250
+Bihar,Madhubani,Jainagar APMC,Green Chilli,Green Chilly,Grade A,20/08/2026,5000,6000,5400
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Cabbage,Cabbage,Grade B,20/08/2026,2500,2500,2500
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Onion,1st Sort,FAQ,20/08/2026,2900,2900,2900
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Cauliflower,African Sarson,Grade A,20/08/2026,6000,6000,6000
+Bihar,Madhubani,Jainagar APMC,Brinjal,Brinjal,Grade A,20/08/2026,2000,3000,2400
+Bihar,Madhubani,Jainagar APMC,Bitter gourd,Bitter Gourd,Grade A,20/08/2026,3000,4000,3400
+Bihar,Madhubani,Jainagar APMC,Bhindi(Ladies Finger),Bhindi,Grade A,20/08/2026,1450,2000,1700
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Bhindi(Ladies Finger),Bhindi,Grade B,20/08/2026,900,900,900
+Keralam,Alappuzha,Harippad Market,Cabbage,Cabbage,FAQ,20/08/2026,4500,5000,4500
+Keralam,Palakad,Vaniyamkulam  VFPCK Market,Cowpea(Veg),Cowpea (Veg),Grade A,20/08/2026,5900,6100,6000
+Keralam,Alappuzha,Harippad Market,Bhindi(Ladies Finger),Other,FAQ,20/08/2026,4500,5000,4500
+Keralam,Alappuzha,Harippad Market,Banana - Green,Other,FAQ,20/08/2026,7000,7500,7000
+Keralam,Palakad,Vaniyamkulam  VFPCK Market,Banana - Green,Banana - Green,Grade A,20/08/2026,6500,6700,6600
+Keralam,Kozhikode(Calicut),Mukkom Market,Tomato,Tomato,FAQ,20/08/2026,2200,2500,2300
+Keralam,Alappuzha,Harippad Market,Bitter gourd,Other,FAQ,20/08/2026,6500,7000,6500
+Keralam,Alappuzha,Harippad Market,Bottle gourd,Other,FAQ,20/08/2026,2000,2500,2000
+Keralam,Alappuzha,Harippad Market,Ashgourd,Other,FAQ,20/08/2026,4000,4500,4000
+Keralam,Alappuzha,Harippad Market,Brinjal,Brinjal,FAQ,20/08/2026,6000,6500,6000
+Keralam,Alappuzha,Harippad Market,Amaranthus,Other,FAQ,20/08/2026,5000,5500,5000
+Keralam,Alappuzha,Harippad Market,Beetroot,Beetroot,FAQ,20/08/2026,6000,6500,6000
+Keralam,Alappuzha,Harippad Market,Capsicum,Capsicum,FAQ,20/08/2026,9000,9500,9000
+Madhya Pradesh,Dhar,Badnawar APMC,Onion,Onion,Non-FAQ,20/08/2026,2500,2500,2500
+Maharashtra,Ratnagiri,Ratnagiri (Nachane) APMC,Guar,Other,Local,20/08/2026,3000,7000,5000
+Maharashtra,Ratnagiri,Ratnagiri (Nachane) APMC,Bitter gourd,Other,Local,20/08/2026,3000,4000,3500
+Maharashtra,Ratnagiri,Ratnagiri (Nachane) APMC,Cauliflower,Other,Local,20/08/2026,2000,4000,3000
+Maharashtra,Ratnagiri,Ratnagiri (Nachane) APMC,Bhindi(Ladies Finger),Other,Local,20/08/2026,3000,4000,3500
+Maharashtra,Ratnagiri,Ratnagiri (Nachane) APMC,Ginger(Green),Other,Local,20/08/2026,10000,15000,12000
+Maharashtra,Ratnagiri,Ratnagiri (Nachane) APMC,Brinjal,Other,Local,20/08/2026,1000,3000,2000
+Maharashtra,Ratnagiri,Ratnagiri (Nachane) APMC,Carrot,Other,Local,20/08/2026,3000,4000,3500
+Maharashtra,Ratnagiri,Ratnagiri (Nachane) APMC,Cucumbar(Kheera),Other,Local,20/08/2026,1500,3000,2000
+Maharashtra,Ratnagiri,Ratnagiri (Nachane) APMC,French Beans(Frasbean),Other,Local,20/08/2026,4000,7000,5500
+Maharashtra,Ratnagiri,Ratnagiri (Nachane) APMC,Tomato,Other,Local,20/08/2026,1000,1500,1200
+Maharashtra,Ratnagiri,Ratnagiri (Nachane) APMC,Green Chilli,Other,Local,20/08/2026,3000,6000,5000
+Maharashtra,Ratnagiri,Ratnagiri (Nachane) APMC,Chilly Capsicum,Other,Local,20/08/2026,2000,3500,3000
+Maharashtra,Ratnagiri,Ratnagiri (Nachane) APMC,Cabbage,Other,Local,20/08/2026,1000,1500,1200
+Nagaland,Peren,Tenning APMC,Potato,Potato,FAQ,20/08/2026,2300,2600,2400
+Odisha,Kalahandi,Bhawanipatna APMC,Ridgeguard(Tori),Other,Local,20/08/2026,3100,3100,3100
+Odisha,Sundergarh,Panposh APMC,Tomato,Hybrid,FAQ,20/08/2026,3000,4000,3500
+Odisha,Sundergarh,Panposh APMC,Pumpkin,Other,FAQ,20/08/2026,1000,1400,1200
+Odisha,Kalahandi,Bhawanipatna APMC,Bhindi(Ladies Finger),Bhindi,Local,20/08/2026,3200,3200,3200
+Odisha,Kalahandi,Bhawanipatna APMC,Brinjal,Brinjal,Local,20/08/2026,3000,3000,3000
+Odisha,Malkangiri,Malkangiri(Korakunda) APMC,Bitter gourd,Other,Grade A,20/08/2026,2000,2000,2000
+Odisha,Malkangiri,Malkangiri(Korakunda) APMC,Bottle gourd,Other,Grade A,20/08/2026,2000,2000,2000
+Odisha,Sundergarh,Panposh APMC,Cauliflower,Other,FAQ,20/08/2026,4000,4500,4200
+Odisha,Sundergarh,Panposh APMC,Bitter gourd,Other,FAQ,20/08/2026,4000,5000,4500
+Odisha,Sundergarh,Panposh APMC,Bottle gourd,Bottle Gourd,FAQ,20/08/2026,2000,2500,2200
+Odisha,Sundergarh,Panposh APMC,Bhindi(Ladies Finger),Other,FAQ,20/08/2026,3000,3500,3200
+Odisha,Sundergarh,Panposh APMC,Brinjal,Brinjal,FAQ,20/08/2026,3000,4000,3500
+Odisha,Kalahandi,Bhawanipatna APMC,Bitter gourd,Other,Local,20/08/2026,2800,2800,2800
+Odisha,Malkangiri,Malkangiri(Korakunda) APMC,Bhindi(Ladies Finger),Bhindi,Grade A,20/08/2026,2000,2000,2000
+Odisha,Sundergarh,Panposh APMC,Cabbage,Cabbage,FAQ,20/08/2026,2000,3000,2500
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,20/08/2026,1166,1166,1166
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,20/08/2026,706,706,706
+Punjab,Moga,Nihal Singh Wala APMC,Onion,Onion,FAQ,20/08/2026,3200,3200,3200
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,20/08/2026,1100,1100,1100
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,20/08/2026,700,700,700
+Punjab,Moga,Nihal Singh Wala APMC,Green Chilli,Green Chilly,FAQ,20/08/2026,3200,3200,3200
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,20/08/2026,2072,2072,2072
+Punjab,Moga,Nihal Singh Wala APMC,Potato,Potato,FAQ,20/08/2026,800,800,800
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,20/08/2026,500,500,500
+Punjab,Moga,Nihal Singh Wala APMC,Tomato,Other,FAQ,20/08/2026,2700,2700,2700
+Punjab,Moga,Nihal Singh Wala APMC,Bottle gourd,Bottle Gourd,FAQ,20/08/2026,3500,3500,3500
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,20/08/2026,900,900,900
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,20/08/2026,1421,1421,1421
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,20/08/2026,1365,1365,1365
+Punjab,Moga,Nihal Singh Wala APMC,Bhindi(Ladies Finger),Other,FAQ,20/08/2026,4100,4100,4100
+Punjab,Moga,Nihal Singh Wala APMC,Capsicum,Other,FAQ,20/08/2026,4800,4800,4800
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,20/08/2026,1800,1800,1800
+Rajasthan,Rajsamand,Rajsamand APMC,Tomato,Tomato,FAQ,20/08/2026,2000,2500,2250
+Rajasthan,Chittorgarh,Kapasan APMC,Wheat,Lokwan,FAQ,20/08/2026,2400,2600,2500
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,20/08/2026,1800,2200,2000
+Rajasthan,Rajsamand,Rajsamand APMC,Potato,Potato,FAQ,20/08/2026,500,900,700
+Telangana,Khammam,Sattupally APMC,Paddy(Common),Samba Masuri,Non-FAQ,20/08/2026,2300,2369,2350
+Tripura,South Tripura,Manubazar,Bhindi(Ladies Finger),Bhindi,Grade A,20/08/2026,3800,4000,3900
+Tripura,South Tripura,Manubazar,Amaranthus,Amaranthus,Grade A,20/08/2026,2200,2400,2300
+Tripura,North Tripura,Dasda APMC,Rice,Other,FAQ,20/08/2026,3250,3350,3300
+Tripura,North Tripura,Dasda APMC,Onion,Onion,FAQ,20/08/2026,3000,3100,3050
+Tripura,South Tripura,Manubazar,Onion,1st Sort,Grade A,20/08/2026,3800,4500,4200
+Tripura,South Tripura,Manubazar,Ridgeguard(Tori),Ridgeguard(Tori),Grade A,20/08/2026,5800,6000,5900
+Tripura,North Tripura,Dasda APMC,Potato,Other,FAQ,20/08/2026,1300,1400,1350
+Tripura,South Tripura,Manubazar,Pumpkin,Pumpkin,Grade A,20/08/2026,2500,2700,2600
+Tripura,South Tripura,Manubazar,Green Chilli,Green Chilly,Grade A,20/08/2026,14000,18000,16000
+Tripura,South Tripura,Manubazar,Cowpea(Veg),Cowpea (Veg),Grade A,20/08/2026,3200,3500,3300
+Tripura,South Tripura,Manubazar,Cucumbar(Kheera),Cucumbar,Grade A,20/08/2026,5400,6000,5700
+Tripura,South Tripura,Manubazar,Sponge gourd,Other,Grade A,20/08/2026,4400,5000,4800
+Tripura,South Tripura,Manubazar,Potato,Jyoti,Grade A,20/08/2026,1800,2000,1900
+Tripura,North Tripura,Dasda APMC,Brinjal,Round/Long,FAQ,20/08/2026,2600,2800,2700
+Tripura,South Tripura,Manubazar,Tomato,Hybrid,Grade A,20/08/2026,4800,5000,4900
+Tripura,South Tripura,Manubazar,Bitter gourd,Bitter Gourd,Grade A,20/08/2026,6000,6500,6200
+Tripura,South Tripura,Manubazar,Banana - Green,Banana - Green,Grade A,20/08/2026,2300,2500,2400
+Tripura,South Tripura,Manubazar,Pointed gourd(Parval),Pointed gourd (Parval),Grade A,20/08/2026,6000,6500,6200
+Tripura,South Tripura,Manubazar,"Spiny Gourd / Kartali(Kantola)
+",Kartali (Kantola),Grade A,20/08/2026,5800,6000,5900
+Tripura,South Tripura,Manubazar,Papaya(Raw),Papaya (Raw),Grade A,20/08/2026,2000,2500,2200
+Tripura,South Tripura,Manubazar,Colacasia,Colacasia,Grade A,20/08/2026,3500,4000,3700
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Carrot,Carrot,FAQ,20/08/2026,1300,1350,1325
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cabbage,Cabbage,FAQ,20/08/2026,940,980,960
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Sponge gourd,Other,FAQ,20/08/2026,2000,2200,2100
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bitter gourd,Bitter Gourd,FAQ,20/08/2026,2091,2130,2100
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Pumpkin,Pumpkin,FAQ,20/08/2026,1000,1200,1100
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,20/08/2026,2240,2280,2260
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Banana - Green,Banana - Green,FAQ,20/08/2026,1780,1820,1800
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Cucumbar(Kheera),Cucumbar,FAQ,20/08/2026,1400,1600,1500
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Guava,Guava,Grade B,20/08/2026,4444,4490,4450
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Pointed gourd(Parval),Pointed gourd (Parval),FAQ,20/08/2026,2420,2460,2440
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Apple,Apple,Grade B,20/08/2026,8976,8999,8988
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana,Medium,Grade B,20/08/2026,3799,3880,3800
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Cauliflower,Cauliflower,FAQ,20/08/2026,2000,2200,2100
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Brinjal,Brinjal,FAQ,20/08/2026,1400,1600,1500
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Pumpkin,Pumpkin,FAQ,20/08/2026,700,740,720
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Raddish,Raddish,FAQ,20/08/2026,1240,1280,1260
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Lemon,Other,FAQ,20/08/2026,9000,9200,9100
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cauliflower,Cauliflower,FAQ,20/08/2026,2300,2400,2330
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Bottle gourd,Bottle Gourd,FAQ,20/08/2026,1400,1600,1500
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bottle gourd,Bottle Gourd,FAQ,20/08/2026,1000,1040,1020
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,20/08/2026,1550,1600,1590
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Bhindi(Ladies Finger),Bhindi,FAQ,20/08/2026,3000,3200,3100
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cucumbar(Kheera),Cucumbar,FAQ,20/08/2026,800,850,825
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Colacasia,Other,FAQ,20/08/2026,4000,4200,4100
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cauliflower,Cauliflower,FAQ,20/08/2026,1500,1530,1515
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Brinjal,Brinjal,FAQ,20/08/2026,1400,1460,1440
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Brinjal,Round/Long,FAQ,20/08/2026,1120,1160,1140
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Bitter gourd,Bitter Gourd,FAQ,20/08/2026,2000,2200,2100
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bottle gourd,Bottle Gourd,FAQ,20/08/2026,1299,1330,1300
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana - Green,Banana - Green,FAQ,20/08/2026,1600,1690,1650
+Uttarakhand,Dehradoon,Vikasnagar APMC,Brinjal,Other,Medium,20/08/2026,700,1000,1000
+Uttarakhand,Dehradoon,Vikasnagar APMC,Bottle gourd,Other,Medium,20/08/2026,500,1000,1000
+Uttarakhand,Dehradoon,Vikasnagar APMC,Pumpkin,Pumpkin,Medium,20/08/2026,400,800,800
+Uttarakhand,Dehradoon,Vikasnagar APMC,Colacasia,Other,Medium,20/08/2026,1500,1800,1800
+Uttarakhand,Dehradoon,Vikasnagar APMC,Apple,Other,Medium,20/08/2026,2700,3500,3500
+Uttarakhand,Dehradoon,Vikasnagar APMC,Banana,Other,Medium,20/08/2026,700,700,700
+Uttarakhand,Dehradoon,Vikasnagar APMC,Cabbage,Cabbage,Medium,20/08/2026,400,1500,1200
+Uttarakhand,Dehradoon,Vikasnagar APMC,Tomato,Local,Medium,20/08/2026,600,1500,1500
+Uttarakhand,Dehradoon,Vikasnagar APMC,French Beans(Frasbean),Other,Medium,20/08/2026,1300,1800,1800
+Uttarakhand,Dehradoon,Vikasnagar APMC,Sponge gourd,Other,Medium,20/08/2026,700,1500,1500
+Uttarakhand,Dehradoon,Vikasnagar APMC,Potato,Other,Medium,20/08/2026,500,1500,1500
+Uttarakhand,Dehradoon,Vikasnagar APMC,Bitter gourd,Other,Medium,20/08/2026,800,1500,1500
+Uttarakhand,Dehradoon,Vikasnagar APMC,Bhindi(Ladies Finger),Other,Medium,20/08/2026,700,1200,1200
+Uttarakhand,Dehradoon,Vikasnagar APMC,Green Chilli,Green Chilly,Medium,20/08/2026,1200,1800,1800
+Uttarakhand,Dehradoon,Vikasnagar APMC,Cucumbar(Kheera),Other,Medium,20/08/2026,700,1200,1200
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,20/08/2026,2600,2850,2750
+West Bengal,Darjeeling,Siliguri APMC,Rice,Fine(Basmati),FAQ,20/08/2026,5100,5300,5200
+West Bengal,Paschim Bardhaman,Asansol APMC,Mustard,Other,FAQ,20/08/2026,6250,6500,6465
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,20/08/2026,4000,4500,4200
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,20/08/2026,2650,2800,2700
+West Bengal,Paschim Bardhaman,Asansol APMC,Ginger(Green),Other,FAQ,20/08/2026,11500,12500,12000
+West Bengal,Paschim Bardhaman,Asansol APMC,Green Gram Dal(Moong Dal),Green Gram Dal,FAQ,20/08/2026,12550,12635,12600
+West Bengal,Paschim Bardhaman,Asansol APMC,Rice,Fine,FAQ,20/08/2026,4675,4865,4785
+West Bengal,Darjeeling,Siliguri APMC,Potato,Jyoti,FAQ,20/08/2026,640,670,660
+West Bengal,Paschim Bardhaman,Durgapur APMC,Potato,Jyoti,FAQ,20/08/2026,800,860,820
+West Bengal,Paschim Bardhaman,Asansol APMC,Potato,Jyoti,FAQ,20/08/2026,800,860,820
+West Bengal,Paschim Bardhaman,Durgapur APMC,Brinjal,Other,FAQ,20/08/2026,3650,3800,3785
+West Bengal,Paschim Bardhaman,Asansol APMC,Brinjal,Other,FAQ,20/08/2026,3650,3800,3700
+West Bengal,Darjeeling,Siliguri APMC,Ginger(Green),Green Ginger,FAQ,20/08/2026,10000,11000,10500
+West Bengal,Darjeeling,Siliguri APMC,Masur Dal,Masur Dal,FAQ,20/08/2026,12300,12700,12500
+West Bengal,Paschim Bardhaman,Asansol APMC,Masur Dal,Masur Dal,FAQ,20/08/2026,9685,9850,9765
+West Bengal,Paschim Bardhaman,Durgapur APMC,Rice,Fine,FAQ,20/08/2026,4675,4865,4750
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,20/08/2026,4800,5200,5000
+West Bengal,Darjeeling,Darjeeling APMC,Potato,Red,FAQ,20/08/2026,1400,1600,1500
+West Bengal,Darjeeling,Darjeeling APMC,Tomato,Other,FAQ,20/08/2026,3800,4000,3900
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Carrot,Other,FAQ,20/08/2026,3100,3300,3200
+West Bengal,Darjeeling,Siliguri APMC,Green Gram Dal(Moong Dal),Green Gram Dal,FAQ,20/08/2026,9600,9800,9700
+West Bengal,Paschim Bardhaman,Asansol APMC,Peas(Dry),Other,FAQ,20/08/2026,6850,7000,6935
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,20/08/2026,2600,2825,2750
+West Bengal,Darjeeling,Siliguri APMC,Banana,Banana - Ripe,Grade A,20/08/2026,2200,2400,2300
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,20/08/2026,2650,2800,2750
+West Bengal,Darjeeling,Siliguri APMC,Tomato,Tomato,FAQ,20/08/2026,2500,2700,2600
+West Bengal,Darjeeling,Darjeeling APMC,Ginger(Green),Other,FAQ,20/08/2026,9000,9200,9100
+West Bengal,Paschim Bardhaman,Durgapur APMC,Cabbage,Other,FAQ,20/08/2026,1800,2050,1950
+West Bengal,Darjeeling,Darjeeling APMC,Cabbage,Other,FAQ,20/08/2026,2700,2900,2800
+West Bengal,Darjeeling,Darjeeling APMC,Raddish,Raddish,FAQ,20/08/2026,3100,3300,3200
+West Bengal,Paschim Bardhaman,Durgapur APMC,Mustard Oil,Other,FAQ,20/08/2026,17500,18500,18000
+West Bengal,Darjeeling,Darjeeling APMC,Squash(Chappal Kadoo),Other,FAQ,20/08/2026,2400,2600,2500
+West Bengal,Paschim Bardhaman,Durgapur APMC,Mustard,Other,FAQ,20/08/2026,6250,6500,6450
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Potato,Red,FAQ,20/08/2026,1400,1600,1500
+West Bengal,Paschim Bardhaman,Durgapur APMC,Tomato,Hybrid,FAQ,20/08/2026,2600,2750,2700
+West Bengal,Paschim Bardhaman,Asansol APMC,Tomato,Hybrid,FAQ,20/08/2026,2550,2700,2600
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Tomato,Other,FAQ,20/08/2026,3800,4000,3900
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Cabbage,Other,FAQ,20/08/2026,2700,2900,2800
+West Bengal,Paschim Bardhaman,Asansol APMC,Sweet Pumpkin,Other,FAQ,20/08/2026,1850,2050,1900
+West Bengal,Paschim Bardhaman,Durgapur APMC,Masur Dal,Masur Dal,FAQ,20/08/2026,9650,9850,9765
+West Bengal,Paschim Bardhaman,Asansol APMC,Red gram split/Arhar dal/Tur dal,Arhar Dal(Tur),FAQ,20/08/2026,12550,12650,12600
+West Bengal,Darjeeling,Siliguri APMC,Black Gram Dal(Urd Dal),Black Gram Dal,FAQ,20/08/2026,12000,13000,12500
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Squash(Chappal Kadoo),Other,FAQ,20/08/2026,2400,2600,2500
+Jammu and Kashmir,Baramulla,Sopore (Nowpora) (F&V),Pear(Marasebu),Other,Grade A,20/08/2026,4600,4600,4600
+Jammu and Kashmir,Baramulla,Sopore (Nowpora) (F&V),Apple,Delicious,Grade A,20/08/2026,2900,2900,2900
+Jammu and Kashmir,Baramulla,Sopore (Nowpora) (F&V),Apple,Other,Grade A,20/08/2026,7200,7200,7200
